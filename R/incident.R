@@ -16,7 +16,7 @@
 #'  is column \code{IncidentDate}, and is the date the OAG dashboard uses as the
 #'  incident date.}
 #'
-#'  \item{agency_id}{The agency's \href{https://github.com/tor-gu/njlea}{njlea}
+#'  \item{agency_id}{The agency's \href{https://github.com/torgu-data/njlea}{njlea}
 #'  ID, e.g. \code{"NJLEA0001"}. Use it to join with other NJ law enforcement
 #'  datasets, and with \code{\link[njlea:get_agencies]{get_agencies()}} and
 #'  \code{\link[njlea:get_agency_municipalities]{get_agency_municipalities()}}

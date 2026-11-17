@@ -44,7 +44,7 @@
 
 # njoaguof 2.2.0
 * New column `incident$agency_id`: the agency's
-  [njlea](https://github.com/tor-gu/njlea) 0.1.0 ID, for joining with other NJ law
+  [njlea](https://github.com/torgu-data/njlea) 0.1.0 ID, for joining with other NJ law
   enforcement datasets. Every incident has one (538 agencies).
 
 * njoaguof now imports njlea and re-exports `get_agencies()`,

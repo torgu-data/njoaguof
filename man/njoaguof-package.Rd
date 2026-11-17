@@ -11,8 +11,8 @@ This is cleaned-up version of the NJ OAG Use of Force database available from ht
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/tor-gu/njoaguof}
-  \item Report bugs at \url{https://github.com/tor-gu/njoaguof/issues}
+  \item \url{https://github.com/torgu-data/njoaguof}
+  \item Report bugs at \url{https://github.com/torgu-data/njoaguof/issues}
 }
 
 }

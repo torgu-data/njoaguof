@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 # njoaguof
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/tor-gu/njoaguof/workflows/R-CMD-check/badge.svg)](https://github.com/tor-gu/njoaguof/actions)
+[![R-CMD-check](https://github.com/torgu-data/njoaguof/workflows/R-CMD-check/badge.svg)](https://github.com/torgu-data/njoaguof/actions)
 <!-- badges: end -->
 
 This is a cleaned-up version of the NJ OAG Use of Force database
@@ -53,7 +53,7 @@ which describes the reporting form and its options.
 * ```use_of_force_raw``` The source data.
 
 Each incident's agency also carries an ```agency_id``` from
-[njlea](https://github.com/tor-gu/njlea), a registry of NJ law enforcement
+[njlea](https://github.com/torgu-data/njlea), a registry of NJ law enforcement
 agencies shared with other NJ OAG data packages. njoaguof re-exports njlea's
 ```get_agencies()```, ```get_agency_municipalities()``` and ```find_agency()```.
 
@@ -153,5 +153,5 @@ You can install the latest version of njoaguof from [GitHub](https://github.com/
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("tor-gu/njoaguof")
+devtools::install_github("torgu-data/njoaguof")
 ```

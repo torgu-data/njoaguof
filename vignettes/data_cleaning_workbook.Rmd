@@ -1269,7 +1269,7 @@ incident <- incident |>
 #### `agency_id`
 
 To make joins with other NJ law enforcement datasets easier, we add the
-[njlea](https://github.com/tor-gu/njlea) agency ID. njlea records every
+[njlea](https://github.com/torgu-data/njlea) agency ID. njlea records every
 (`agency_county`, `agency_name`) spelling used here, as cleaned above, under its
 alias source `"njoaguof"`. State agencies have an `NA` county.
 
